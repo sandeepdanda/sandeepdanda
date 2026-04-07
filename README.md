@@ -16,7 +16,7 @@
 class Sandeep:
 
     def __init__(self):
-        self.role = "Software Engineer @ AWS"
+        self.role = "Software Engineer"
         self.education = {
             "masters": "MS Computer Science — University at Buffalo",
             "bachelors": "BTech Information Technology — NIT Durgapur"
