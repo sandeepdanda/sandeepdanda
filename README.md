@@ -48,19 +48,32 @@ if __name__ == "__main__":
 
 ### 🔭 Projects
 
-<a href="https://github.com/sandeepdanda/vocabulary-vault">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepdanda&repo=vocabulary-vault&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/sandeepdanda/reinforcement_learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepdanda&repo=reinforcement_learning&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/sandeepdanda/DL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepdanda&repo=DL&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/sandeepdanda/Leet_Journey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepdanda&repo=Leet_Journey&theme=react&hide_border=true" />
-</a>
-
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sandeepdanda/vocabulary-vault">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepdanda&repo=vocabulary-vault&theme=react&hide_border=true" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sandeepdanda/reinforcement_learning">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepdanda&repo=reinforcement_learning&theme=react&hide_border=true" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sandeepdanda/DL">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepdanda&repo=DL&theme=react&hide_border=true" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sandeepdanda/Leet_Journey">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepdanda&repo=Leet_Journey&theme=react&hide_border=true" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🛠️ Languages & Tools
