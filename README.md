@@ -48,32 +48,13 @@ if __name__ == "__main__":
 
 ### 🔭 Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/sandeepdanda/vocabulary-vault">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepdanda&repo=vocabulary-vault&theme=react&hide_border=true" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/sandeepdanda/reinforcement_learning">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepdanda&repo=reinforcement_learning&theme=react&hide_border=true" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/sandeepdanda/DL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepdanda&repo=DL&theme=react&hide_border=true" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/sandeepdanda/Leet_Journey">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepdanda&repo=Leet_Journey&theme=react&hide_border=true" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project                                                                             | Description                                                              |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [📚 vocabulary-vault](https://github.com/sandeepdanda/vocabulary-vault)             | CLI tool that turns reading into a vocabulary RPG with spaced repetition |
+| [🧠 reinforcement_learning](https://github.com/sandeepdanda/reinforcement_learning) | MDP environments, tabular methods, and Q-learning for stock trading      |
+| [🔍 DL](https://github.com/sandeepdanda/DL)                                         | Fake news detection using deep learning and NLP                          |
+| [💻 Leet_Journey](https://github.com/sandeepdanda/Leet_Journey)                     | LeetCode solutions — arrays, hashing, and more                           |
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -95,6 +76,13 @@ if __name__ == "__main__":
 
 ---
 
+### 🎓 Education
+
+- **MS Computer Science** — University at Buffalo
+- **BTech Information Technology** — NIT Durgapur
+
+---
+
 ### 📜 Certifications
 
 - Salesforce AI Associate
@@ -102,16 +90,3 @@ if __name__ == "__main__":
 - Salesforce Certified Administrator
 - SQL Advanced — HackerRank
 - Deloitte AI Certified
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepdanda&show_icons=true&theme=react&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepdanda&layout=compact&theme=react&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=sandeepdanda&theme=react&hide_border=true" />
-</p>
