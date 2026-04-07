@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sandeepdanda">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%40+AWS;MS+CS+%7C+NIT+Durgapur+Alum;Building+scalable+backend+systems;ML+%7C+Cloud+%7C+Distributed+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%40+AWS;Full-Stack+%7C+Cloud+Infra+%7C+Observability;MS+CS+%7C+NIT+Durgapur+Alum;Building+scalable+backend+systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,15 +23,15 @@ class Sandeep:
         }
         self.code = {
             "languages": ["Python", "Java", "TypeScript", "SQL"],
-            "cloud": ["AWS", "Azure Databricks"],
-            "ml_and_data": ["PyTorch", "TensorFlow", "scikit-learn", "PySpark"],
-            "backend": ["React", "Node.js", "SQLite", "MySQL"],
-            "tools": ["Git", "Docker", "Salesforce"]
+            "cloud": ["AWS (CDK, CloudWatch, EC2, S3, Lambda, Route53)"],
+            "backend": ["Spring Boot", "Node.js", "Flask", "PostgreSQL", "Redis"],
+            "frontend": ["React", "Cloudscape", "Cypress"],
+            "devops": ["Docker", "Kubernetes", "Jenkins", "CI/CD"]
         }
         self.interests = [
             "distributed systems",
-            "machine learning",
             "cloud infrastructure",
+            "observability",
             "developer tooling"
         ]
 
@@ -65,21 +65,21 @@ if __name__ == "__main__":
   <img src="https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws&logoColor=F90" />
-  <img src="https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch" />
-  <img src="https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow" />
   <img src="https://img.shields.io/badge/-React-000?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Spring_Boot-000?style=flat&logo=springboot" />
   <img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/-Redis-000?style=flat&logo=redis" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-PySpark-000?style=flat&logo=apachespark" />
-  <img src="https://img.shields.io/badge/-Salesforce-000?style=flat&logo=salesforce" />
 </p>
 
 ---
 
 ### 🎓 Education
 
-- **MS Computer Science** — University at Buffalo
-- **BTech Information Technology** — NIT Durgapur
+- **MS Computer Science** — University at Buffalo (GPA: 3.80)
+- **BTech Information Technology** — NIT Durgapur (GPA: 3.60)
 
 ---
 
